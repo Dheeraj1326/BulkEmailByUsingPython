@@ -44,7 +44,12 @@ and type following.
 python3 -m venv venv
 ```
 
-# After creating virtual environmet You want to download some dependencies.
+# After creating virtual environmet you should activate script
+# following is path copy this path and past to teminal.
+```bash
+venv\Scripts\Activate.ps1
+```
+# All set now you can add dependencies by using pip command as given.
 # Use Following Code.
 
 ```bash
