@@ -44,4 +44,11 @@ and type following.
 python3 -m venv venv
 ```
 
+# After creating virtual environmet You want to download some dependencies.
+# Use Following Code.
+
+```bash
+pip install yagmail,pandas
+```
+
 
