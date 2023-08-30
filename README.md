@@ -41,7 +41,7 @@ Open Terminal in vscode or normal cmd on project location,
 and type following.
 
 ```bash
-    python3 -m venv venv
+python3 -m venv venv
 ```
 
 
