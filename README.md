@@ -28,4 +28,13 @@
 
 12.	Which you will use to send bulk mail.
 
+# You Should Create virtual environment  for python program
+
+Open Terminal in vscode or normal cmd on project location,
+and type following.
+
+```bash
+    python -m venv venv
+```
+
 
