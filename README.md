@@ -1,6 +1,6 @@
 # BulkEmailByUsingPython
 
-## If you dont know how to clone repository then try following code
+## If you dont know how to clone repository then try the following code
 
 ```bash
 
@@ -8,7 +8,7 @@ git clone https://github.com/Dheeraj1326/BulkEmailByUsingPython.git
 
 ```
 
-## The Password for Gmail you want to you should generate it.
+## Generate password for Gmail using the steps given below.
 
 
 1.	For that you go to your Gmail application.
