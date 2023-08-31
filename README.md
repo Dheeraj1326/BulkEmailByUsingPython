@@ -8,7 +8,7 @@ git clone https://github.com/Dheeraj1326/BulkEmailByUsingPython.git
 
 ```
 
-# The Password for Gmail you want to you should generate it.
+## The Password for Gmail you want to you should generate it.
 
 
 1.	For that you go to your Gmail application.
@@ -35,7 +35,7 @@ git clone https://github.com/Dheeraj1326/BulkEmailByUsingPython.git
 
 12.	Which you will use to send bulk mail.
 
-# You Should Create virtual environment  for python program
+## You Should Create virtual environment  for python program
 
 Open Terminal in vscode or normal cmd on project location,
 and type following.
@@ -44,13 +44,13 @@ and type following.
 python3 -m venv venv
 ```
 
-# After creating virtual environmet you should activate script
-# following is path copy this path and past to teminal.
+## After creating virtual environmet you should activate script
+## following is path copy this path and past to teminal.
 ```bash
 venv\Scripts\Activate.ps1
 ```
-# All set now you can add dependencies by using pip command as given.
-# Use Following Code.
+## All set now you can add dependencies by using pip command as given.
+## Use Following Code.
 
 ```bash
 pip install yagmail,pandas
