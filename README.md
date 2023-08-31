@@ -1,6 +1,6 @@
 # BulkEmailByUsingPython
 
-# If you dont know how to clone repository then try following code
+## If you dont know how to clone repository then try following code
 
 ```bash
 
